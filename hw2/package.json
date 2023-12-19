@@ -1,0 +1,14 @@
+{
+  "name": "alexey_random_functions",
+  "version": "1.0.2",
+  "description": "Random functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "git repository": "https://github.com/Alexey25ya/Node.js_basics/tree/main/hw2",
+  "keywords": [],
+  "author": "Alexey",
+  "license": "ISC"
+}
